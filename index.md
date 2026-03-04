@@ -39,9 +39,9 @@ DevOps Engineer with experience managing large-scale CI/CD systems across Azure 
 
 ## 🔗 Navigation
 
-- [CI/CD Architecture](cicd.md)
-- [Monitoring & Observability](monitoring.md)
-- [Infrastructure as Code](iac.md)
-- [Automation Scripts](automation.md)
-- [AI in DevOps & SRE](ai-devops.md)
-- [Blog](blog.md)
+- [CI/CD Architecture](projects/cicd)
+- [Monitoring & Observability](projects/monitoring)
+- [Infrastructure as Code](/projects/iac)
+- [Automation Scripts](/projects/automation)
+- [AI in DevOps & SRE](/projects/ai-devops)
+- [Blog](/projects/blog)
