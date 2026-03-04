@@ -1,0 +1,27 @@
+{
+  "cicd": {
+    "keywords": ["cicd", "ci", "cd", "pipeline", "jenkins", "build", "deployment"],
+    "title": "CI/CD Architecture",
+    "content": "Designed scalable CI/CD architecture managing 4000+ Jenkins jobs across distributed Azure VMs. Implemented parallel execution, caching strategies, failure isolation and monitoring-driven optimization."
+  },
+  "monitoring": {
+    "keywords": ["monitoring", "prometheus", "grafana", "alerts", "metrics", "observability"],
+    "title": "Monitoring & Observability",
+    "content": "Built centralized monitoring stack using Prometheus and Grafana. Implemented JVM monitoring, custom PromQL queries, threshold tuning, and alert noise reduction strategies."
+  },
+  "iac": {
+    "keywords": ["terraform", "infrastructure", "iac", "azure", "vm", "provision"],
+    "title": "Infrastructure as Code",
+    "content": "Provisioned Azure infrastructure using modular Terraform scripts with environment isolation, security group configuration and repeatable infrastructure deployment."
+  },
+  "automation": {
+    "keywords": ["shell", "script", "automation", "deployment script", "bash"],
+    "title": "Automation Scripts",
+    "content": "Developed advanced parameter-driven shell scripts with validation logic, logging framework and conditional deployment flows reducing manual intervention."
+  },
+  "ai": {
+    "keywords": ["ai", "aops", "llm", "machine learning", "predictive", "intelligent"],
+    "title": "AI in DevOps",
+    "content": "Exploring AI-driven DevOps including log summarization, predictive scaling, alert clustering and intelligent incident response automation."
+  }
+}
