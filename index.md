@@ -45,3 +45,14 @@ DevOps Engineer with experience managing large-scale CI/CD systems across Azure 
 - [Automation Scripts](/projects/automation)
 - [AI in DevOps & SRE](/projects/ai-devops)
 - [Blog](/projects/blog)
+
+<hr>
+<h2>🤖 Ask About My DevOps Projects</h2>
+
+<div id="chatbox" style="border:1px solid #444;padding:15px;border-radius:8px;">
+  <div id="messages" style="min-height:150px;margin-bottom:10px;"></div>
+  <input id="input" placeholder="Ask about CI/CD, monitoring, AI..." style="width:75%;padding:8px;">
+  <button onclick="sendMessage()" style="padding:8px;">Send</button>
+</div>
+
+<script src="/assets/js/chatbot.js"></script>
