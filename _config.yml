@@ -1,0 +1,10 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: "Ronit Palan"
+description: "DevOps Engineer | CI/CD Architect | Monitoring & AI-Driven Infrastructure"
+author:
+  name: "Ronit Palan"
+  bio: "DevOps Engineer specializing in CI/CD, Observability, and AI-Augmented Infrastructure"
+  location: "India"
+markdown: kramdown
